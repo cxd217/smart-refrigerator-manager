@@ -1,0 +1,4 @@
+id,name,food_type,location,quantity,added_date,expiry_date
+1,Pork mince,pork,fridge,500g,2026-05-23,2026-05-26
+2,Milk,milk,fridge,1 bottle,2026-05-23,2026-05-30
+3,Salmon fillet,fish,freezer,2 pieces,2026-05-23,2026-08-21

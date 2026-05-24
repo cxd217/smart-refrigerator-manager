@@ -1,0 +1,15 @@
+Title:
+Smart Refrigerator Manager
+
+Short description:
+Smart Refrigerator Manager is a small Python program for people who cook at
+home but sometimes forget what is already in the fridge. The user can add food,
+choose the fresh layer or freezer layer, and the program estimates the expiry
+date from a shelf-life guide. It also supports custom food types and adjusted
+rules, which is useful if someone's fridge is older or colder than usual. The
+inventory is sorted by expiry date and saved in CSV files, so the data is still
+there next time the program is opened.
+
+Image idea:
+A clean illustration of an open refrigerator with labelled fresh and freezer
+sections, colorful food items, and small expiry reminder tags.
